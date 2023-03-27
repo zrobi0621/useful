@@ -1,7 +1,12 @@
 # useful
 useful things
 
-## ColorConverter.cs
+**Folder structure:**
+-Coding-C#
+
+## Coding - C#
+
+#### ColorConverter.cs
 Convert RGB to CMYK, HSV, HSL
-## RalStandard.cs
+#### RalStandard.cs
 RAL Standard color codes
